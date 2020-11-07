@@ -1,16 +1,358 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebb7d02f-fc36-44de-a024-cb144b1933f0" name="Default Changelist" comment="1023/1">
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/Thread/demo01/mainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/Thread/demo01/testThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/Thread/demo01/testThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/Thread/demo01/testThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/io/demo/heima/File/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/net/demo/TCPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/net/demo/TCPService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/net/demo/TestIp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/net/demo/TestSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/net/demo/UDPChat/mulThread/TalkReceive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/net/demo/UDPChat/mulThread/TalkSend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/net/demo/UDPChat/mulThread/User1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/net/demo/UDPChat/mulThread/User2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/net/demo/UDPChat/udpUser1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/net/demo/UDPChat/udpUser2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/net/demo/URL/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/net/demo/uploadfile/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/net/demo/uploadfile/server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/excption/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/excption/myException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oop01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oop01/demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oop01/demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oop02/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oop02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oop02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oop03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oop03/fengzhuang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oop04/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oop04/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oop04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oop04/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oop04/extendsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oopAbstract/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oopAbstract/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oopAbstract/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oopAbstract/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oopAbstract/testa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oopStatic/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/oopStatic/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/testInterface/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/testInterface/UserServiceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hao/oop/testInterface/in.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jH9QRP28YPadfnlHnExcC44dJa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/test.txt&#10;C:/Users/86189/IdeaProjects/JavaSE/.gitignore&#10;true&#10;C:/Users/86189/IdeaProjects/JavaSE/test1.txt" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../weblib_vue" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="cn.hao.collection" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86189\IdeaProjects\JavaSE" />
+      <recent name="C:\Users\86189\IdeaProjects\JavaSE\src\cn\hao\io\demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.test.doudizhu">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.countChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.hao.collection.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.hao.collection.map" />
+      <option name="MAIN_CLASS_NAME" value="cn.hao.collection.map.test" />
+      <option name="METHOD_NAME" value="countChar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.doudizhu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.hao.collection.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.hao.collection.map" />
+      <option name="MAIN_CLASS_NAME" value="cn.hao.collection.map.test" />
+      <option name="METHOD_NAME" value="doudizhu" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testArraylistAndHashMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.hao.collection.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.hao.collection.map" />
+      <option name="MAIN_CLASS_NAME" value="cn.hao.collection.map.test" />
+      <option name="METHOD_NAME" value="testArraylistAndHashMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testArraylistAndHashMap2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.hao.collection.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.hao.collection.map" />
+      <option name="MAIN_CLASS_NAME" value="cn.hao.collection.map.test" />
+      <option name="METHOD_NAME" value="testArraylistAndHashMap2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testcollections" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.hao.collection.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.hao.collection.map" />
+      <option name="MAIN_CLASS_NAME" value="cn.hao.collection.map.test" />
+      <option name="METHOD_NAME" value="testcollections" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.test.testArraylistAndHashMap" />
+      <item itemvalue="JUnit.test.testArraylistAndHashMap2" />
+      <item itemvalue="JUnit.test.countChar" />
+      <item itemvalue="JUnit.test.testcollections" />
+      <item itemvalue="JUnit.test.doudizhu" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.doudizhu" />
+        <item itemvalue="JUnit.test.testcollections" />
+        <item itemvalue="JUnit.test.countChar" />
+        <item itemvalue="JUnit.test.testArraylistAndHashMap2" />
+        <item itemvalue="JUnit.test.testArraylistAndHashMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebb7d02f-fc36-44de-a024-cb144b1933f0" name="Default Changelist" comment="1023/1" />
+      <created>1603450138244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603450138244</updated>
+      <workItem from="1603450141840" duration="9737000" />
+      <workItem from="1603503454356" duration="619000" />
+      <workItem from="1603553783168" duration="5175000" />
+      <workItem from="1603599818521" duration="2408000" />
+      <workItem from="1603604514391" duration="12362000" />
+      <workItem from="1603618430997" duration="911000" />
+      <workItem from="1603620286088" duration="23000" />
+      <workItem from="1603691269541" duration="2745000" />
+      <workItem from="1603698677704" duration="1811000" />
+      <workItem from="1603798937311" duration="1317000" />
+      <workItem from="1603800652302" duration="2000" />
+      <workItem from="1603800679913" duration="54000" />
+      <workItem from="1603800747309" duration="1623000" />
+      <workItem from="1603804822705" duration="155000" />
+      <workItem from="1603804992994" duration="788000" />
+      <workItem from="1603806534775" duration="707000" />
+      <workItem from="1603890299524" duration="895000" />
+      <workItem from="1603891211539" duration="115000" />
+      <workItem from="1603891342680" duration="1324000" />
+      <workItem from="1603892685367" duration="4520000" />
+      <workItem from="1603899484534" duration="183000" />
+      <workItem from="1603899681833" duration="1083000" />
+      <workItem from="1603938251863" duration="19000" />
+      <workItem from="1604374292350" duration="1151000" />
+      <workItem from="1604458732712" duration="12000" />
+      <workItem from="1604543286784" duration="3190000" />
+      <workItem from="1604550981756" duration="12678000" />
+      <workItem from="1604563782883" duration="7000" />
+      <workItem from="1604567849277" duration="2155000" />
+      <workItem from="1604575434819" duration="4798000" />
+      <workItem from="1604627377818" duration="7319000" />
+      <workItem from="1604643504261" duration="397000" />
+      <workItem from="1604644087498" duration="16389000" />
+      <workItem from="1604665199586" duration="1891000" />
+      <workItem from="1604667159760" duration="2121000" />
+      <workItem from="1604669682992" duration="558000" />
+      <workItem from="1604727784966" duration="23391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1603899442544">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1603899442544" />
+    <state x="696" y="339" key="#Notifications" timestamp="1603805010157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="696" y="339" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1603805010157" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603899223708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603899223708" />
+    <state x="-1217" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604554305983">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1217" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604554305983" />
+    <state x="-1155" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1604740576602">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1155" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604740576602" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603899249107" />
+    <state x="552" y="216" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603891475269">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="216" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603891475269" />
+    <state x="-1217" y="233" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603441303486">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1217" y="233" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603441303486" />
+    <state x="-1180" y="274" key="FileChooserDialogImpl" timestamp="1604655577702">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604655577702" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604458743467" />
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1604755063882">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604755063882" />
+    <state width="1877" height="411" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604546479777" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1604755063882">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604755063882" />
+    <state width="1877" height="411" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604546479777" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1604755063882">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604755063882" />
+    <state width="1877" height="411" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604546479777" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1604755063882">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604755063882" />
+    <state width="1877" height="411" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604546479777" />
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1603892668449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603459945841" />
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603892668449" />
+    <state width="1877" height="339" key="GridCell.Tab.1.center" timestamp="1603892668449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603459945840" />
+    <state width="1877" height="339" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603892668449" />
+    <state width="1877" height="339" key="GridCell.Tab.1.left" timestamp="1603892668449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603459945840" />
+    <state width="1877" height="339" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603892668449" />
+    <state width="1877" height="339" key="GridCell.Tab.1.right" timestamp="1603892668449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603459945841" />
+    <state width="1877" height="339" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603892668449" />
+    <state x="-1560" y="272" key="SettingsEditor" timestamp="1604577767640">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1560" y="272" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604577767640" />
+    <state x="293" y="328" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603899754761" />
+    <state x="633" y="703" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1603605183268">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="633" y="703" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1603605183268" />
+    <state x="-1304" y="240" key="run.anything.popup" timestamp="1603453190123">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603453190123" />
+    <state x="552" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1603556477149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603556477149" />
   </component>
   <component name="masterDetails">
     <states>
